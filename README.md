@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnewton1
-- 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning 🐍Python, but I'm also causually working on C, C#, Java, and PHP.
+- 👀 I’m not a "pro"grammer, but I do program a bit.
+- 🌱 I’m currently I mostly code in 🐘 PHP (and a little bit of C#).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... (details coming soon!)
 
